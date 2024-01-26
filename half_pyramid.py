@@ -3,6 +3,7 @@
 # Pseudocode
 
 # Set rows to 5
+rows = 5
 # Create for loop
      # Outer loop to iterate through each row from top to bottom
     # Inner loop to print stars in each row
